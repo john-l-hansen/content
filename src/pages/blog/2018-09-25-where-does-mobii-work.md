@@ -10,8 +10,6 @@ tags:
 ---
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/vtHW1S1y2AU/0.jpg)](http://www.youtube.com/watch?v=vtHW1S1y2AU)
 
-![](/img/gif-test.webp)
-
 ![null](/img/screen-shot-2018-09-25-at-11.28.02-am.png)
 
 Mobii is much more than a television app. It can be used almost anywhere there is a device emitting sound. The most common ones we use are **Television, Radio, Beacon, Geofence, Digital Media and Live Events.** Anywhere there is sound Mobii can deliver to you.
