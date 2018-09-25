@@ -8,6 +8,9 @@ description: >-
 tags:
   - '#Mobii'
 ---
+`vimeo: https://vimeo.com/276994255`
+`vimeo: 276994255`
+
 ![](/img/gif-test.webp)
 
 ![null](/img/screen-shot-2018-09-25-at-11.28.02-am.png)
