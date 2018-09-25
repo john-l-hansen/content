@@ -1,7 +1,7 @@
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
-$kaldi-red: #FD461E
+$kaldi-red: #5796F0
 $kaldi-red-invert: #fff
 
 $primary: $kaldi-red
@@ -22,6 +22,12 @@ $primary-invert: $kaldi-red-invert
     margin-bottom: 1.5rem
     margin-top: 0
 
+.content
+  p:nth-child(1)
+    padding: 0
+  h1, h2, h3, h4, h5, h6, p
+    padding: 0 1rem
+
 // Helper Classes
 .full-width-image-container
   width: 100vw
@@ -38,5 +44,6 @@ $primary-invert: $kaldi-red-invert
 
 .margin-top-0
   margin-top: 0 !important
+  
 
 @import "~bulma"
